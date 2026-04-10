@@ -37,6 +37,7 @@ title: SMART on FHIR
 * [SMART Bulk Data Server (no registration required)](https://bulk-data.smarthealthit.org/): Developer tool for Bulk Data clients
     * [Source Code](https://github.com/smart-on-fhir/bulk-data-server)
 * [Logica Health Sandbox](https://sandbox.logicahealth.org): Manage your own sandbox server and users over time
+* [mock.health Sandbox](https://mock.health/sandbox/smart): SMART test environment with clinically diverse synthetic patients (US Core 6.1), built on Synthea
 
 ## Vendor Sandboxes
 * [Allscripts](https://developer.allscripts.com/)
